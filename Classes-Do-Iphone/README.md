@@ -1,18 +1,3 @@
-## Getting Started
-
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+#Santander Back End Java  
+Trabalho desenvolvido com o intuito de abordar todo o conhecimento da programação Orientada a Objetos (POO), trabalhando os conceitos de Herança, Abstração, Polimorfismo e Encapsulamento. O projeto ainda aborda conhecimentos no que se refere à diagramação UML contida na pasta docs do projeto.
+[LinkedIn](https://www.linkedin.com/in/adonis-pantoja-232662239/)
